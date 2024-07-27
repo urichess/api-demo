@@ -1,6 +1,5 @@
 # Lichess OAuth app demo
 
-
 This is an example for a fully client side OAuth app that uses various APIs.
 
 ## Features
